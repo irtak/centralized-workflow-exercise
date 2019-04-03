@@ -1,0 +1,4 @@
+a nice Git option I use a lot is git commit -v
+this shows me the entire difference that I am about
+to commit while editing the commit message
+(so that I don't have to remember variable names, etc.)
